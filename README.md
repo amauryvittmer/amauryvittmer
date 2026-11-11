@@ -10,6 +10,6 @@
 
 Master of Science in Computational Linguistics at @Sorbonne @INALCO @Paris-X-Nanterre & Master in Management at @Panthéon-Sorbonne. 
 
-→ AI & NLP research work, and volunteer projects <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=A371F7&vCenter=true&width=410&height=20&repeat=false&lines=helping+Alzheimer%27s+patients+and+caregivers."/><img align="top" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=8250DF&vCenter=true&width=410&height=20&repeat=false&lines=helping+Alzheimer%27s+patients+and+caregivers." alt="helping Alzheimer's patients and caregivers."/></picture>
+→ ML/NLP research and volunteer projects <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=A371F7&vCenter=true&width=410&height=20&repeat=false&lines=helping+Alzheimer%27s+patients+and+caregivers."/><img align="top" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=8250DF&vCenter=true&width=410&height=20&repeat=false&lines=helping+Alzheimer%27s+patients+and+caregivers." alt="helping Alzheimer's patients and caregivers."/></picture>
 
 **Contact:** amaury [dot] vittmer [at] gmail [dot] com
