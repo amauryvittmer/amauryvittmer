@@ -1,19 +1,17 @@
 # Amaury Vittmer
 
 <p>
-  <img src="https://img.shields.io/badge/Transformers-24292f?style=flat-square&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-24292f?style=flat-square&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CUDA-24292f?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-24292f?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Praaline-24292f?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Praaline-1F6FEB?style=flat-square"/>
 </p>
 
 Research & Development student in Natural Language Processing at @Sorbonne @INALCO @Paris-X-Nanterre, and Master's student in Innovation Management at @Panthéon-Sorbonne.
 
-→ AI & NLP research work, and volunteer projects supporting caregivers of Alzheimer's patients.
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=57606A&vCenter=true&width=520&height=30&repeat=false&lines=Helping+Alzheimer%27s+patients+and+caregivers+%E2%80%94+ongoing"/>
+→ AI & NLP research work, and volunteer projects <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=A371F7&vCenter=true&width=330&height=20&repeat=false&lines=helping+Alzheimer%27s+patients+and+caregivers."/><img align="top" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=8250DF&vCenter=true&width=330&height=20&repeat=false&lines=helping+Alzheimer%27s+patients+and+caregivers." alt="helping Alzheimer's patients and caregivers."/></picture>
 
 **Contact:** amaury [dot] vittmer [at] gmail [dot] com
