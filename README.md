@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-Research & Development student in Natural Language Processing at @Sorbonne @INALCO @Paris-X-Nanterre, and Master's student in Innovation Management at @Panthéon-Sorbonne.
+Master of Science in Computational Linguistics at @Sorbonne @INALCO @Paris-X-Nanterre & Master in Management at @Panthéon-Sorbonne. 
 
 → AI & NLP research work, and volunteer projects <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=A371F7&vCenter=true&width=410&height=20&repeat=false&lines=helping+Alzheimer%27s+patients+and+caregivers."/><img align="top" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&color=8250DF&vCenter=true&width=410&height=20&repeat=false&lines=helping+Alzheimer%27s+patients+and+caregivers." alt="helping Alzheimer's patients and caregivers."/></picture>
 
